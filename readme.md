@@ -1,28 +1,29 @@
 # Game Over (Version One)
 
-Three instrument variations
+__Three instrument variations__
 
 One Midi File
 
 3 Mp3 | 3 Wav
 
-Genre: Game Audio / SFX
+Genre: *Game Audio / SFX*
 
-Emotion: Let down gently
+Emotion: *Let down gently*
 
-Chords: FM9 - Dm7add2
+Chords: *FM9 - Dm7add2*
 
-DAW: Logic Pro X
+DAW: *Logic Pro X*
 
 
-Variations:
 
-Track 1) Steinway Grand Piano, Classic Electric Piano
+**Variations:**
 
-Track 2) Wurlitzer Classic, Plastic Funk Piano
+Track 1) *Steinway Grand Piano, Classic Electric Piano*
 
-Track 3) Wurlitzer Classic, Electric Harmonics
+Track 2) *Wurlitzer Classic, Plastic Funk Piano*
 
-License: CC-BY (Creative Commons Attribution 4.0 International)
+Track 3) *Wurlitzer Classic, Electric Harmonics*
 
-Composer: Ezra Sandzer-Bell
+License: *CC-BY (Creative Commons Attribution 4.0 International)*
+
+Composer: *Ezra Sandzer-Bell*
